@@ -14,7 +14,7 @@ and the December temperature statistics
 
 From this we can see that:
   - Given that these two months typically represent the most extreme seasons in the northern hemisphere, the average temperature between the two seasons is relatively constant, averaging only 3 degrees lower in the winter
-  - Further reinforcing are the minimum and maximum temperatures over the dataset.  The max for June is 85, and for December 83.  Very confortable weather for beachgoing and ice-cream consumption.  The lows paint a similar picture, though predictably in winter it has the potential to get much more statistically colder than summer - down to a low of 56 degrees.  However, it's important to remember that these are almost certainly nighttime temperatures and would have little to no impact on a daytime business model.
+  - Further reinforcing this conclusion are the minimum and maximum temperatures over the dataset.  The max for June is 85, and for December 83.  Very confortable weather for beachgoing and ice-cream consumption.  The lows paint a similar picture, though predictably in winter it has the potential to get much more statistically colder than summer - down to a low of 56 degrees.  However, it's important to remember that these are almost certainly nighttime temperatures and would have little to no impact on a daytime business model.
   - Finally, it's important to note that the data we are tasked with retrieving paints a potentially deceptively positive picture of the prospects for this location.  it would be beneficial to review more than temperature data to ascertai nthe viability of this location.  More on this in the following section.
 
 ## Summary 
