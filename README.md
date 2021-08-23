@@ -9,6 +9,7 @@ Using SQLite data analysis, we are able to extract the June temperature statisti
 
 
 and the December temperature statistics
+
 ![December Temperatures](https://github.com/rscalise88/surfs_up/blob/main/decTemps.PNG)
 
 From this we can see that:
